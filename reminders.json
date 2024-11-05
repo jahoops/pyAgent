@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Timesheet Reminder",
+        "url": "https://cp-lintechglobal.prd.mydeltekgcc.com/CPWeb/masterPage.htm",
+        "days": ["monday", "tuesday", "wednesday", "thursday"],
+        "time": "09:00"
+    },
+    {
+        "name": "Do Tickets",
+        "url": "",
+        "days": ["monday", "tuesday", "wednesday", "thursday"],
+        "time": "16:00"
+    },
+    {
+        "name": "Quit at 5",
+        "url": "",
+        "days": ["monday", "tuesday", "wednesday", "thursday"],
+        "time": "17:00"
+    }
+]
